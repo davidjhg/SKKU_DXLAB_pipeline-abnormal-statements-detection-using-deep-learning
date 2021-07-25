@@ -17,3 +17,11 @@ python labeling_tool.py
 # 3. 영상 분할 모델 
 일반 영상과 열화상 영상을 입력 받아 위험 의심 지역 위치 정보를 반환 하도록 딥러닝 모델 구축
 해당 모델은 Residual Block 기반의 두 Encoder와 단일 Decoder 로 구성되며 Skip Connection 구조 포함  
+
+# 4. Environment
+python  
+pytorch  
+opencv  
+PIL  
+torchvision  
+
