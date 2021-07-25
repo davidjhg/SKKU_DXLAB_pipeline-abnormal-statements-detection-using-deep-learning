@@ -1,5 +1,7 @@
 # SKKU_DXLAB_pipeline-abnormal-statements-detection-using-deep-learning
 
+<img src="result.PNG">
+
 # 1. 프로젝트 개요 
 국내 열수송관은 1980년대 자원 이용 효율 증가를 위해 실시된 에너지 사업 이후 전국 각지에 산재되어 있으나, 최근 매설되어 있는 열수송관의 노후화로 인한 파열 사고가 빈번히 발생하고 있음  
 기존 인력의 부족과 검사 기술의 한계로 이를 상당 부분 개선 할 수 있는 인공지능 기반의 접근법이 필요  
