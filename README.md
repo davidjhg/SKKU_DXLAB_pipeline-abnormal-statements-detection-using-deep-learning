@@ -24,4 +24,5 @@ pytorch
 opencv  
 PIL  
 torchvision  
+scikit-learn  
 
